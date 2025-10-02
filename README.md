@@ -1,6 +1,7 @@
 # AI-Powered ATM Security System
 
 A prototype solution to revolutionize ATM security using computer vision and deep learning. This project detects suspicious activities, weapons, and tampering in real time, sending instant alerts to security teams. The system features a modern web dashboard, live video streaming, and multi-channel notifications.
+![atm github](https://github.com/user-attachments/assets/a8481625-9d94-4425-82d8-7c9044412992)
 
 ## 🚀 Features
 
