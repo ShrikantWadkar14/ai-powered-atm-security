@@ -1,0 +1,9 @@
+ultralytics          
+opencv-python-headless
+numpy
+mediapipe
+flask
+twilio               
+sqlalchemy
+pillow
+sort-tracker        
